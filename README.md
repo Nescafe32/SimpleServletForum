@@ -1,7 +1,7 @@
 # SimpleServletForum
 
 /messages (forum link) - show all forum messages
-<br>/add - adding new message
+<br>/add - add new message
 <br>/settings?param1=&param2= - param1 - background colorm param2 - text color
 
 Requirements for creating the program:
