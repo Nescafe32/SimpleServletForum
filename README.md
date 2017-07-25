@@ -7,6 +7,6 @@
 Requirements for creating the program:
 1) registation/login to the forum via login and password
 2) only logged user may read and write messages
-3) user may configure forum background and text color
+3) user may configure forum background and text color for himself
 4) store messages and users in lists
 5) use filter
